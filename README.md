@@ -26,3 +26,4 @@ gk = [[ -2.24064101e-11]
 Gk = [[ 0.84105682  0.        ]
  [ 0.          1.16526089]]
 ### 5. Hw5_2D_SVM
+* see the code in the foler \Hw5_2D_SVM
